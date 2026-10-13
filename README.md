@@ -2,4 +2,4 @@
 
 This is a set of scrpipts designed to analyse climate datafiles.
 
-Part of the DTC Software Engineering training.
+Part of the Oxford DTC Software Engineering training.
