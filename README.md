@@ -1,4 +1,5 @@
-Climate Analysis Toolkit (CAT)
+**Climate Analysis Toolkit (CAT)
+**
 
 This is a set of scripts designed to analyse climate datafiles.
 
